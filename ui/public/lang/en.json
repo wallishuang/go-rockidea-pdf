@@ -1,0 +1,13 @@
+{
+    "merge.tab": "Merge Files",
+    "split.tab": "Split File",
+    "merge.desc": "Please select files to merge and arrange them in the order you want them merged.",
+    "split.desc": "Instructions: Select the file to split and enter page range(s) for splitting.{br}For example: 1,2-3,9 will split into 4 files, one page per file.{br}page 1 is the first file; pages 2-3 are the second and third files; page 9 is the fourth file.",
+    "merge.submit": "Merge",
+    "split.submit": "Split",
+    "split.pages.placeholder": "Please enter page range, e.g., 2-3,5-6",
+    "merge.file.desc": "Please select files to merge and arrange them in the order you want them merged.",
+    "common.file.dropzone": "or drag and drop files here",
+    "common.delete.button": "Delete",
+    "common.clear.button": "Clear"
+}

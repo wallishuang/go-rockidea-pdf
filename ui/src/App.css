@@ -1,0 +1,27 @@
+.app-container {
+  text-align: center;
+}
+
+.language-dropdown {
+  position: absolute;
+  top: 10px; /* Adjust as needed */
+  right: 10px; /* Adjust as needed */
+}
+
+.language-dropdown select {
+  padding: 8px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  cursor: pointer;
+  outline: none;
+}
+
+.language-dropdown select:hover {
+  border-color: #999;
+}
+
+.language-dropdown select:focus {
+  border-color: #555;
+}

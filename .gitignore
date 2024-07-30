@@ -1,0 +1,7 @@
+go.mod
+go.sum
+node_modules/
+output/
+tmp/
+*debug*
+*.exe

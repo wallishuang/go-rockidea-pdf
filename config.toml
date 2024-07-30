@@ -1,0 +1,11 @@
+Operation = "merge" # merge or split or both
+
+[Merge]
+InputFolder = "C:/go-workspace/pdf-operation/sample" # put all pdf files you want to merge in this folder (sort by file name)
+OutputFolder = "output" # where is merged file output folder
+OutputFile = "output.pdf" # merged file name
+
+[Split]
+InputFile = "C:/go-workspace/pdf-tool/output/output.pdf" # you want to split pdf file (only support single input file at once)
+Pages = "2-3,5-6" # select you wanto split pages
+OutputFolder = "split_out" # split output file folder

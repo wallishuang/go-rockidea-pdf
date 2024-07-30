@@ -1,0 +1,13 @@
+{
+    "merge.tab": "合并文件",
+    "split.tab": "拆分文件",
+    "merge.desc": "请选择要合并的文件，并按照合并顺序排序",
+    "split.desc": "说明：请选择要拆分的文件，并输入拆分页码范围{br}例如：1,2-3,9，将会拆分成4份文件，每页一个文件{br}page1为第一份；page2-3为第2份及第3份，page 9为第4份文件",
+    "merge.submit": "合并",
+    "split.submit": "拆分",
+    "split.pages.placeholder": "请输入页码范围，例如：2-3,5-6",
+    "merge.file.desc": "请选择要合并的文件，并按照合并的文件顺序排序",
+    "common.file.dropzone": "或将文件拖放到此处",
+    "common.delete.button": "删除",
+    "common.clear.button": "清除"
+}
